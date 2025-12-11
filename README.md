@@ -14,6 +14,8 @@ FINALMENTE un main interactivo que llama a las funciones en las cuales se prueba
 Diagramas
 Superclase
 <img width="532" height="894" alt="image" src="https://github.com/user-attachments/assets/d1f33409-98e2-4a44-bde1-69e00c6c5ca6" />
+
+
 Clase hija 1
 <img width="919" height="888" alt="image" src="https://github.com/user-attachments/assets/8b8db03e-44bc-4162-b2ff-fbedd57d492f" />
 
